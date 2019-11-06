@@ -1,0 +1,24 @@
+{
+	"name": "create-svelte-component",
+	"version": "0.0.1",
+	"description": "",
+	"main": "index.js",
+	"bin": {
+		"create-svelte-component": "./index.js"
+	},
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jesseskinner/create-svelte-component.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/jesseskinner/create-svelte-component/issues"
+	},
+	"homepage": "https://github.com/jesseskinner/create-svelte-component#readme"
+}
